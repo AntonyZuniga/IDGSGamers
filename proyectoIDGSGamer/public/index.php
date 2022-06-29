@@ -263,11 +263,9 @@
           <img class="logof" src="../resources/img/logo.png" alt="">
   
           <p class="footer-links">
-            <a href="index.php">Inicio</a>
+            <a href="#">Inicio</a>
             ·
-            <a href="#">Nosotros</a>
-            ·
-            <a href="#">Acerca de la página</a>
+            <a href="../resources/views/politica.php">Politica de Privacidad</a>
             
           </p>
   
@@ -277,7 +275,7 @@
   
             <a class="tooltip" href="https://www.facebook.com/IDGSGamers-103492925755993"><span style="font-size: 15px; line-height: 23px;" class="tooltiptext">Facebook</span><i class='fab fa-facebook-square'></i></a>
             <a class="tooltip" href="https://twitter.com/IDGSGamers"><span style="font-size: 15px; line-height: 23px;" class="tooltiptext">Twitter</span><i class='fab fa-twitter'></i></i></a>
-            <a class="tooltip" href="https://github.com/"><span style="font-size: 15px; line-height: 23px;" class="tooltiptext">GitHub</span><i class='fab fa-github'></i></i></a>
+            <a class="tooltip" href="https://github.com/AntonyZuniga/IDGSGamers"><span style="font-size: 15px; line-height: 23px;" class="tooltiptext">GitHub</span><i class='fab fa-github'></i></i></a>
             <a class="tooltip" href="https://store.steampowered.com/?l=spanish"><span style="font-size: 15px; line-height: 23px;" class="tooltiptext">Steam</span><i class='fab fa-steam'></i></i></a>
   
           </div>
