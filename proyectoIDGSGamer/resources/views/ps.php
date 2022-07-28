@@ -12,6 +12,7 @@
     <link rel="stylesheet" href="../css/navbar.css">
     <link rel="stylesheet" href="../css/footer.css">
     <link rel="stylesheet" href="../css/titulos.css">
+    <link rel="stylesheet" href="../css/res.css">
     
     <!----===== ICONOS ===== -->
     <link href='https://unpkg.com/boxicons@2.1.1/css/boxicons.min.css' rel='stylesheet'>
@@ -143,9 +144,110 @@
 	</div>
 
     <div class='recuadro' id="uno">
-        <h1 style="text-align:center">Texto info</h1>
+    <p class="t7"><a href="">
+    RESEÑA DE VIDEOJUEGOS
+  </a></p><br>
 	</div>
-    <hr>
+    <hr style="height:5px;border:none;color:#333;background-color:#333;">
+
+<div class='recuadro' id="dos">
+        <h1 style="text-align:center">Horizon zero down: Forbidden West</h1><br>
+        <p style="text-align:justify">El mundo de Horizon Zero Dawn era increíblemente hermoso y con el 
+        poder de la PS5, Forbidden West es aún más hermoso. Con la PS5, también tienes la opción de jugar
+         en hermosos gráficos 4K a 30FPS o jugar a una resolución ligeramente más baja a 60FPS. Se pueden
+          ver las diferencias entre estos dos modos, pero el modo 60FPS todavía se ve ridículamente hermoso. 
+          Aloy mismo se ve muy bien diseñado. Quizás la mayor diferencia entre su personaje de Forbidden West 
+          y Zero Dawn es cómo se peina el cabello de Aloy. Se ha pensado en cada pequeño detalle, haciendo que
+           Aloy parezca casi real.</p><br>
+        <p style="text-align:justify">La jugabilidad de Forbidden West es bastante reconocible para las personas 
+        que están familiarizadas con Zero Dawn. Al comienzo del juego, tienes acceso a tu arco y flecha y puedes
+         colocar trampas, pero también lanzar bloques de hielo. Estas son todas las cosas que salen de Zero Dawn,
+          y pronto tendrás acceso a estas armas. El hecho de que tengas acceso rápido a estas armas es bueno, 
+          porque mi temor era que tenías que comenzar prácticamente desde 0 en Forbidden West.
+        </p><br>
+        <p style="text-align:justify">Horizon Forbidden West es otro jonrón para Playstation. El juego es una
+         mejora respecto a Horizon Zero Dawn en todos los sentidos y nos aporta mucho más. El mundo se siente 
+         vivo, se ve genial, las misiones secundarias se sienten parte de la historia completa y también vale 
+         la pena jugar la historia completa.
+        </p><br><br><br><br><br><br>
+	</div>
+    <div class='circulo2' id="tres">
+        <img src="../img/hori.jpg" class='imagen'>
+    </div>
+                </hr>
+                <hr style="height:5px;border:none;color:#333;background-color:#333;">
+    <div class='recuadro' id="tres">
+        <h1 style="text-align:center">Spider-Man: Miles Morales</h1><br>
+        <p style="text-align:justify">El videojuego Marvel's Spider-Man ofrece un sistema de mundo abierto en el
+         que, tomando el control de Spidey, podremos circular a toda velocidad por las calles de Nueva York, 
+         haciéndonos vale de las telas de araña propias del superhéroe. </p><br>
+        <p style="text-align:justify">Debido a su metodología de mundo abierto tenemos cierta libertad a la hora
+         de realizar misiones; tanto las que complementan la historia principal como las numerosas tareas 
+         secundarias que incrementan la vida del título. Todo ello mediante una historia interesante, a la altura
+          del personaje, en la que no falta una buena dosis de humor.
+        </p><br>
+        <p style="text-align:justify">El sistema de combate resulta además bastante dinámico, guardando 
+        semejanzas con el visto en la saga Batman Arkham. Spider-Man tiene más versatilidad a la hora de poder 
+        utilizar objetos del entorno para acabar con los enemigos.
+        </p><br>
+        <p style="text-align:justify">La historia es un punto fuerte de este juego, como se representa la 
+        responsabilidad de ser spider-Man y como se plasma la frase de que cuando Spider-Man gana, Peter Parker
+         pierde es sublime, un juego realmente recomendado.
+        </p><br><br><br><br><br><br>
+	</div>
+    <div class='circulo2' id="dos">
+        <img src="../img/spider.jpg" class='imagen'>
+    </div>
+                </hr>
+                <hr style="height:5px;border:none;color:#333;background-color:#333;">
+    <div class='recuadro' id="dos">
+        <h1 style="text-align:center">Ratchet & Clank: rift Apart</h1><br>
+        <p style="text-align:justify">Todo detalle del juego ha sido pulido hasta su máxima expresión, incluido el
+         desempeño del juego en la consola. En toda nuestra experiencia no hemos experimentado una sola pantalla
+          de carga, ni siquiera cuando estas saltando entre dimensiones en tiempo real, en verdad este es un logro
+           que nos deja con la quijada en el suelo.</p><br>
+        <p style="text-align:justify">El combate y las armas que el juego te da para jugar son tremendamente 
+        divertidas, existe de todo en tu arsenal. Desde una clásica pistola o escopeta, hasta granadas que 
+        invocan a un hongo que será tu compañero de combate por unos minutos o una pistola que electrocuta a 
+        tus enemigos, acompañada por supuesto de excelentes animaciones en las que le ves hasta los huesos a tus 
+        enemigos. Cada instante dentro de Ratchet & Clank: Rift Apart se siente como estar habitando una película
+         de Pixar en tiempo real. Este sentimiento es reforzado por las transiciones completamente naturales 
+         entre los cinemáticos y la jugabilidad.
+        </p><br>
+        <p style="text-align:justify">Tu misión intergaláctica te llevará a visitar varios planetas donde tendrás
+         que cumplir algún objetivo principal, pero en todos ellos siempre hay uno o más objetivos secundarios 
+         que personalmente siempre completamos con mucho gusto. Cada instante con Ratchet & Clank: Rift Apart es 
+         un verdadero gozo y cualquier excusa que tengamos para pasar más tiempo con este juego es una que vamos 
+         a usar con gusto.
+        </p><br><br><br><br><br><br>
+	</div>
+    <div class='circulo2' id="tres">
+        <img src="../img/ratchet.jpg" class='imagen'>
+    </div>
+                </hr>
+                <hr style="height:5px;border:none;color:#333;background-color:#333;">
+    <div class='recuadro' id="tres">
+        <h1 style="text-align:center">Demon Souls</h1><br>
+        <p style="text-align:justify">Lo interesante de este remake es que respetaron la estructura del diseño de
+         niveles, pero con visuales de nueva generación. Puedes decidir jugar a 60 cuadros o a 30 con una mayor 
+         carga en los detalles, aunque a título personal, son casi imperceptibles.</p><br>
+        <p style="text-align:justify">La jugabilidad ha sido respetada de igual forma y solo tendremos que
+         ocuparnos en descifrar como eliminar a los enemigos, ya que cada uno de ellos tiene una particularidad, 
+         si a esto le sumamos que muchos salen de sorpresa, le da un valor agregado. No obstante, los enemigos 
+         principales requieres de pericia, ya que cada uno tiene su propia forma de vencerlo.
+        </p><br>
+        <p style="text-align:justify">Es importante tener en cuenta que Demons Souls puede llegar a ser frustrante
+         para quienes están acostumbrados a los avances rápidos y puntos para salvar cercanos. Esta versión re 
+         imaginada de Demons Souls, ha puesto un precedente de lo que increíble que puede llegar a ser uno de 
+         estos juegos a nivel visual. Sin duda es el mejor juego de lanzamiento de la PS5 en términos visuales a 
+         pesar de ser un remake
+        </p><br><br><br><br><br><br>
+	</div>
+    <div class='circulo2' id="dos">
+        <img src="../img/demon.jpg" class='imagen'>
+    </div>
+<hr/>            
+    <hr style="height:5px; border:none; color:#333; background-color:#333;">
 	<div class='recuadro' id="dos">
         <h1 style="text-align:center">COMENTARIOS</h1>
         <br>
@@ -191,9 +293,7 @@
           <p class="footer-links">
             <a href="../../public/index.php">Inicio</a>
             ·
-            <a href="#">Nosotros</a>
-            ·
-            <a href="#">Acerca de la página</a>
+            <a href="politica.php">Politica de Privacidad</a>
             
           </p>
   
@@ -203,7 +303,7 @@
    
             <a class="tooltip" href="https://www.facebook.com/IDGSGamers-103492925755993"><span style="font-size: 15px; line-height: 23px;" class="tooltiptext">Facebook</span><i class='fab fa-facebook-square'></i></a>
             <a class="tooltip" href="https://twitter.com/IDGSGamers"><span style="font-size: 15px; line-height: 23px;" class="tooltiptext">Twitter</span><i class='fab fa-twitter'></i></i></a>
-            <a class="tooltip" href="https://github.com/"><span style="font-size: 15px; line-height: 23px;" class="tooltiptext">GitHub</span><i class='fab fa-github'></i></i></a>
+            <a class="tooltip" href="https://github.com/AntonyZuniga/IDGSGamers"><span style="font-size: 15px; line-height: 23px;" class="tooltiptext">GitHub</span><i class='fab fa-github'></i></i></a>
             <a class="tooltip" href="https://store.steampowered.com/?l=spanish"><span style="font-size: 15px; line-height: 23px;" class="tooltiptext">Steam</span><i class='fab fa-steam'></i></i></a>
   
           </div>

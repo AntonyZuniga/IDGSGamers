@@ -13,6 +13,8 @@
     <link rel="stylesheet" href="../resources/css/carrusel.css">
     <link rel="stylesheet" href="../resources/css/footer.css">
     <link rel="stylesheet" href="../resources/css/index.css">
+    <link rel="stylesheet" href="../resources/css/titulos.css">
+    <link rel="stylesheet" href="../resources/css/res.css">
     
     <!----===== ICONOS ===== -->
     <link href='https://unpkg.com/boxicons@2.1.1/css/boxicons.min.css' rel='stylesheet'>
@@ -198,7 +200,11 @@
         </div>    
         </div>
         
-
+        <div class='recuadro' id="uno">
+         <p class="t6"><a href="">
+            NOVEDADES
+        </a></p>
+	    </div>
         <div class="contenedor">
           <div class="slider-contenedor" >
               <section class="contenido-slider ">
@@ -254,8 +260,51 @@
             </div>
       </div>
       <script src="../resources/js/carrusel.js"></script>
-<br><br><br><br><br><br>
-<hr/>
+<br><br>
+
+
+</hr>
+<hr style="height:5px;border:none;color:#333;background-color:#333;">
+<div class='recuadro' id="cuatro"><br><br><br><br>
+        <h1 style="text-align:justify">Si buscas una PS5, hay un nuevo pack a la venta</h1><br>
+        <p style="text-align:justify">Desde hace unos minutos se anunció un paquete que incluye una PS5, 2 mandos, los juegos 
+        Horizon: Forbidden West y Gran Turismo 7 por 779,90 euros, que son 16,380 pesos mexicanos.</p>
+	</div>
+    <div id="cinco">
+        <img src="../resources/img/sorp.gif" class='imagen2'>
+    </div>
+                </hr>
+                <hr style="height:5px;border:none;color:#333;background-color:#333;">
+    <div class='recuadro' id="cuatro"><br><br><br><br>
+        <h1 style="text-align:justify">Xbox vendió el doble que PlayStation</h1><br>
+        <p style="text-align:justify">Xbox vendió 6695 unidades mientras que PlayStation 5 únicamente vendieron 3000 unidades
+         teniendo en cuenta la alta escasez existencias.</p><br><br>
+	</div>
+    <div id="cinco">
+        <img src="../resources/img/dinero.gif" class='imagen2'>
+    </div>
+                </hr>
+                <hr style="height:5px;border:none;color:#333;background-color:#333;">
+    <div class='recuadro' id="cuatro"><br><br><br><br>
+        <h1 style="text-align:justify">Nintendo prepara un nuevo modelo de su consola Switch</h1><br>
+        <p style="text-align:justify">Las ventas de la Switch superaron los 32 millones de unidades en todo el mundo por lo que
+         Nintendo está preparando relanzarla con una nueva versión. </p><br><br>
+	</div>
+    <div id="cinco">
+        <img src="../resources/img/nin.gif" class='imagen2'>
+    </div>
+                </hr>
+                <hr style="height:5px;border:none;color:#333;background-color:#333;">
+    <div class='recuadro' id="cuatro"><br><br><br><br>
+        <h1 style="text-align:justify">Rebajas de verano de Steam</h1><br>
+        <p style="text-align:justify">Las Rebajas de Verano de Steam han comenzado ya. Muchas de estas ofertas han llevado a
+         ciertos jugadores a obtener videojuegos con un descuento espectacular con tantas posibilidades de excelentes títulos
+          que puedes comprar.</p><br><br>
+	</div>
+    <div id="cinco">
+        <img src="../resources/img/like.gif" class='imagen2'>
+    </div>
+<hr/>             
 <footer class="footer-distributed">
 
         <div class="footer-left">
@@ -263,11 +312,9 @@
           <img class="logof" src="../resources/img/logo.png" alt="">
   
           <p class="footer-links">
-            <a href="index.php">Inicio</a>
+            <a href="#">Inicio</a>
             ·
-            <a href="#">Nosotros</a>
-            ·
-            <a href="#">Acerca de la página</a>
+            <a href="../resources/views/politica.php">Politica de Privacidad</a>
             
           </p>
   
@@ -277,7 +324,7 @@
   
             <a class="tooltip" href="https://www.facebook.com/IDGSGamers-103492925755993"><span style="font-size: 15px; line-height: 23px;" class="tooltiptext">Facebook</span><i class='fab fa-facebook-square'></i></a>
             <a class="tooltip" href="https://twitter.com/IDGSGamers"><span style="font-size: 15px; line-height: 23px;" class="tooltiptext">Twitter</span><i class='fab fa-twitter'></i></i></a>
-            <a class="tooltip" href="https://github.com/"><span style="font-size: 15px; line-height: 23px;" class="tooltiptext">GitHub</span><i class='fab fa-github'></i></i></a>
+            <a class="tooltip" href="https://github.com/AntonyZuniga/IDGSGamers"><span style="font-size: 15px; line-height: 23px;" class="tooltiptext">GitHub</span><i class='fab fa-github'></i></i></a>
             <a class="tooltip" href="https://store.steampowered.com/?l=spanish"><span style="font-size: 15px; line-height: 23px;" class="tooltiptext">Steam</span><i class='fab fa-steam'></i></i></a>
   
           </div>
